@@ -1,0 +1,5 @@
+{
+  "name": "Kryptos",
+  "description": "Elite Cybersecurity Dashboard and Ethical Hacking Assistant powered by Gemini AI.",
+  "requestFramePermissions": ["microphone"]
+}
